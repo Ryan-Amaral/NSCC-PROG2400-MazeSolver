@@ -1,0 +1,1 @@
+<p>A project for a Data Structures class at NSCC. This project is a maze solver. For this assignment we were tasked to create a maze solver that uses a stack instead of a recursive algorithm.</p><br/>
